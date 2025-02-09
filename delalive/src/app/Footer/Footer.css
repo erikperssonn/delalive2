@@ -1,0 +1,9 @@
+.footer-footer{
+    display:flex;
+    justify-content: center; 
+}
+
+.footer-title{
+    font-size: 1em;
+    margin-top: 10px;
+}
