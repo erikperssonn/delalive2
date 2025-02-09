@@ -1,5 +1,5 @@
 
-import "./Component.css";   
+import "./Main.css";   
 
 export default function Main(){
 
