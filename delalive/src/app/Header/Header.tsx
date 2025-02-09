@@ -9,7 +9,7 @@ export default function Header(){
                 <p className="header-title">
                     Dela Live
                 </p>
-            </h1>
+            </h1> 
         </header>
     );
 }
