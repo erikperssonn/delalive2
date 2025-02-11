@@ -1,0 +1,8 @@
+interface BlogComponent {
+
+    toString(): string;
+
+
+
+
+}

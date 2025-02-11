@@ -1,0 +1,16 @@
+.skapa-home-page-main {
+    /* existing styles */
+}
+
+.skapa-home-page-h1 {
+    /* existing styles */
+}
+
+.skapa-home-page-divider {
+    display: flex;
+}
+
+.skapa-home-page-divider > div {
+    flex: 1;
+    padding: 10px;
+}
